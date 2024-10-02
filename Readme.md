@@ -7,7 +7,7 @@ Este proyecto es una aplicación de web scraping con interfaz gráfica desarroll
 ## Capturas de Pantalla
 
 ### Modo claro
-![Captura de pantalla de la calculadora en modo claro]()
+![Captura de pantalla de la calculadora en modo claro](https://github.com/VictorNivelo/Scraper/blob/main/Imagenes/Modo_oscuro.png)
 
 
 ## Características principales
